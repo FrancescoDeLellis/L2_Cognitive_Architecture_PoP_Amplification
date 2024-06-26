@@ -4,6 +4,7 @@ Work funded by SHARESPACE, find more on https://sharespace.eu/
 For more details about this work please refer to this paper
 https://ieeexplore.ieee.org/document/10559995
 
+[@citation_key]
 @ARTICLE{10559995,
   author={Lellis, Francesco De and Coraggio, Marco and Foster, Nathan C. and Villa, Riccardo and Becchio, Cristina and di Bernardo, Mario},
   journal={IEEE Control Systems Letters}, 
