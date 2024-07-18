@@ -10,9 +10,8 @@ https://ieeexplore.ieee.org/document/10559995
   journal={IEEE Control Systems Letters}, 
   title={Data-Driven Architecture to Encode Information in the Kinematics of Robots and Artificial Avatars}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={8},
+  pages={1919-1924},
   keywords={Encoding;Kinematics;Avatars;Task analysis;Reinforcement learning;Redundancy;Real-time systems;Data-driven control;Machine learning;Human-in-the-loop control},
   doi={10.1109/LCSYS.2024.3416071}}
 ```
